@@ -15,7 +15,7 @@ class JConfig {
 	public $host = 'http://dmnjoomla.azurewebsites.net/';
 	public $user = 'b1b79c454eb690';
 	public $password = '7a8a2f0f';
-	public $db = 'joomla';
+	public $db = 'acsm_cb05dbff354e341';
 	public $dbprefix = 'iu50p_';
 	public $live_site = '';
 	public $secret = 'k1bYCwSgU7Aq88dM';
