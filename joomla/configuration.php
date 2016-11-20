@@ -12,10 +12,10 @@ class JConfig {
 	public $debug = '0';
 	public $debug_lang = '0';
 	public $dbtype = 'mysqli';
-	public $host = 'http://dmnjoomla.azurewebsites.net/';
-	public $user = 'b1b79c454eb690';
-	public $password = '7a8a2f0f';
-	public $db = 'acsm_cb05dbff354e341';
+	public $host = 'us-cdbr-azure-southcentral-f.cloudapp.net';
+	public $user = 'b787d843949b80';
+	public $password = 'c04f16cf';
+	public $db = 'dineshdb';
 	public $dbprefix = 'iu50p_';
 	public $live_site = '';
 	public $secret = 'k1bYCwSgU7Aq88dM';
