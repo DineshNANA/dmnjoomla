@@ -12,9 +12,9 @@ class JConfig {
 	public $debug = '0';
 	public $debug_lang = '0';
 	public $dbtype = 'mysqli';
-	public $host = 'localhost';
-	public $user = 'root';
-	public $password = '';
+	public $host = 'http://dmnjoomla.azurewebsites.net/';
+	public $user = 'b1b79c454eb690';
+	public $password = '7a8a2f0f';
 	public $db = 'joomla';
 	public $dbprefix = 'iu50p_';
 	public $live_site = '';
